@@ -4,7 +4,7 @@ class PigLatinizer
     
     words = self.split(" ")
     
-    
+    binding.pry
   end
   
 end
